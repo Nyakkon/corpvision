@@ -1349,3 +1349,144 @@ a.cd-top--is-visible {
     font-size: 17px;
   }
 }
+
+@media screen and (max-width: 991.9px) {
+	header.header {
+		height: auto;
+		padding: 20px 0;
+	}
+
+	.navbar-dark .navbar-toggler-icon {
+		background-image: none;
+		padding: 0;
+		width: 34px;
+		height: 34px;
+		display: inline-block;
+		background: var(--primary-color);
+		border-radius: 4px;
+		text-align: center;
+	}
+
+	.navbar-toggler-icon.fa {
+		line-height: 34px;
+	}
+
+	.navbar-dark .navbar-toggler {
+		color: #fff;
+		border: none;
+	}
+
+	.navbar-toggler {
+		padding: 0rem 0rem !important;
+	}
+
+	.header__search {
+		position: absolute;
+		right: 65px;
+		top: 10px;
+	}
+
+	.mobile-position {
+		position: absolute;
+		right: 44px;
+		top: 18px;
+	}
+
+	.search__container .btn-material {
+		line-height: 40px;
+		text-align: center;
+		width: 40px;
+		height: 40px;
+		font-size: 14px;
+	}
+
+	.navbar-collapse {
+		max-height: calc(100vh - 80px);
+		overflow-y: scroll;
+	}
+
+	.navbar-nav {
+		float: left;
+		text-align: center;
+		width: 100%;
+		padding: 20px 0 0px;
+	}
+
+	.navbar-expand-lg .navbar-nav .nav-item {
+		padding: 0;
+	}
+
+	.navbar-expand-lg .navbar-nav .nav-link {
+		display: inline-block;
+		padding: 6px 0;
+		text-align: center;
+	}
+
+	.slick-initialized .slider__item {
+		min-height: 700px;
+	}
+
+	.carousel__slider .slider__item .slider__content h1 {
+		font-size: 50px;
+	}
+
+	.navbar-expand-lg .navbar-nav .dropdown-menu {
+		transform: translateX(0px);
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.slick-initialized .slider__item {
+		min-height: 650px;
+		padding-bottom: 40px;
+	}
+
+	.carousel__slider .slider__item .slider__content h1 {
+		font-size: 45px;
+	}
+
+	.carousel__slider .slider__item .slider__content p {
+		font-size: 18px;
+		line-height: 28px;
+	}
+}
+
+@media screen and (max-width: 415px) {
+}
+
+
+a {
+	color: unset;
+	transition: all 0.5s;
+}
+a:hover {
+	color: unset;
+	text-decoration: unset;
+}
+p {
+	line-height: 27px;
+	color: var(--text-color);
+	opacity: 0.8;
+	font-size: 17px;
+	padding: 0;
+	margin: 0;
+}
+ul {
+	list-style: none;
+}
+.title .title__small {
+	display: block;
+	color: var(--small-heading-color);
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+.title .title__large {
+	color: var(--heading-color);
+	line-height: 45px;
+	font-size: 35px;
+	font-weight: 600;
+}
