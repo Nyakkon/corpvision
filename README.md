@@ -1,7 +1,8 @@
 # PHÂN CHIA BÀI
 # LAYOUT SỬ DỤNG: https://wp.w3layouts.com/corpvision/
 # Link Host: https://nyakkon.github.io/corpvision/
-# Link Video: 
+# Link Video: https://drive.google.com/file/d/1-Z8Dh8D-shqiFz60OISCrSftDzWpMBX8/view?usp=sharing
+# Link Youtube: https://youtu.be/KZ1KBq0cx6o
 
 -----------------------------------------------
 
