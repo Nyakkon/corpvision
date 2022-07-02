@@ -228,7 +228,7 @@ header.nav-fixed .navbar-expand-lg .navbar-brand {
 .navbar .navbar-brand span {
   display: block;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 600; 
   padding-left: 46px;
   opacity: 0.9;
 }
