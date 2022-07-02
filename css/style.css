@@ -421,6 +421,15 @@ body.search-active .header__search .search__container .btn-material i {
   position: relative;
 }
 
+.carousel .cover__blog {
+  background: url(../img/b1.jpg);
+  background-size: cover;
+  height: 400px;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: top;
+  position: relative;
+}
+
 .carousel .text__blog__carousel {
   position: absolute;
   top: 56%;
