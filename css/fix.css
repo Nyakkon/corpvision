@@ -91,7 +91,6 @@ header.nav-fixed {
   background-color: var(--bg-color);
   height: 80px;
   border-bottom: none;
-  box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.5);
 }
 
 header.nav-fixed .navbar-expand-lg .navbar-brand {
