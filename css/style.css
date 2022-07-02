@@ -483,6 +483,9 @@ body.search-active .header__search .search__container .btn-material i {
   .w3l-quote-6 .quote-form {
     padding: 50px;
   }
+  .carousel {
+    padding: 1080px;
+  }
 }
 
 @media all and (max-width: 800px) {
@@ -490,12 +493,18 @@ body.search-active .header__search .search__container .btn-material i {
     font-size: 38px;
     line-height: 48px;
   }
+  .carousel {
+    padding: 800px;
+  }
 }
 
 @media all and (max-width: 667px) {
   .w3l-quote-6 .quote-info h4 {
     font-size: 36px;
     line-height: 46px;
+  }
+  .carousel {
+    padding: 667px;
   }
 }
 
@@ -507,6 +516,9 @@ body.search-active .header__search .search__container .btn-material i {
   .w3l-quote-6 .quote-form .btn {
     width: 100%;
   }
+  .carousel {
+    padding: 600px;
+  }
 }
 
 @media all and (max-width: 480px) {
@@ -516,11 +528,17 @@ body.search-active .header__search .search__container .btn-material i {
   .w3l-quote-6 .quote-sec-info {
     padding: 25px 0px;
   }
+  .carousel {
+    padding: 480px;
+  }
 }
 
 @media all and (max-width: 415px) {
   .w3l-quote-6 .quote-form {
     padding: 40px 30px;
+  }
+  .carousel {
+    padding: 415px;
   }
 }
 
@@ -531,6 +549,9 @@ body.search-active .header__search .search__container .btn-material i {
   .w3l-quote-6 .quote-sec-info {
     padding: 20px 0px;
     grid-gap: 20px;
+  }
+  .carousel {
+    padding: 384px;
   }
 }
 
