@@ -7,7 +7,7 @@
 -----------------------------------------------
 
 - TUẤN: BLOG, BLOG 2, 404PAGE, HEADER, FOOTER, CONTACT.
-- KHOẺ: HOME, SERVICE, BACK TO TOP, THANH BAR.
+- KHOẺ: HOME, ABOUT, SERVICE, BACK TO TOP, THANH BAR.
 
 -----------------------------------------------
 - DEADLINE NHÓM TỚI 01/02/2022 ĐỂ CHECK LẠI - 
